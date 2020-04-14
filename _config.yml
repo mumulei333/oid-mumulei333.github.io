@@ -1,8 +1,8 @@
 # Site settings
 title: MUMU Blog
 SEOTitle: MUMU的博客 | MUMU Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+header-img: img/background_scenery.jpg
+email: mumulei333@163.com
 description: "Every failure is leading towards success."
 keyword: "MUMU, MUMU Blog, MUMU的博客, mumulei, 雷林, JAVA, docker, 后端"
 url: "http://mumulei.com"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/mumulei333/mumulei333.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about_cat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
