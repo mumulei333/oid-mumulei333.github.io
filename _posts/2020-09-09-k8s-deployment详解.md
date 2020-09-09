@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      k8s-service详解
-subtitle:   Kubernetes-service详解
+title:      k8s-deployment详解
+subtitle:   Kubernetes-deployment详解
 date:       2020-09-09
 author:     MUMU
 header-img: img/post-bg-debug.png
