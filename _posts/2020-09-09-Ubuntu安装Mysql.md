@@ -4,7 +4,7 @@ title:      Ubuntu安装Mysql
 subtitle:   Ubuntu安装使用Mysql
 date:       2020-09-09
 author:     MUMU
-header-img: img/post-bg-debug.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Ubuntu

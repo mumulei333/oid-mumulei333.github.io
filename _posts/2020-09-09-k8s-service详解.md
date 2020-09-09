@@ -4,7 +4,7 @@ title:      k8s-service详解
 subtitle:   Kubernetes-service详解
 date:       2020-09-09
 author:     MUMU
-header-img: img/post-bg-debug.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Devops

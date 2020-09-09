@@ -4,7 +4,7 @@ title:      Ubuntu安装RabbitMq
 subtitle:   Ubuntu安装搭建消息中间件RabbitMq
 date:       2020-09-09
 author:     MUMU
-header-img: img/post-bg-debug.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - RabbitMq

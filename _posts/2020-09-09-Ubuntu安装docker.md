@@ -4,7 +4,7 @@ title:      Ubuntu安装docker
 subtitle:   Ubuntu安装docker
 date:       2020-09-09
 author:     MUMU
-header-img: img/post-bg-debug.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Docker
